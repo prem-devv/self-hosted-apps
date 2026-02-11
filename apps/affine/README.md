@@ -8,5 +8,7 @@ Personal knowledge base and collaboration tool.
 ## Status
 Running in production.
 
-## Notes
-Docker Compose file will be added later.
+## Deployment
+This service is deployed using Docker Compose.
+Environment variables are defined in `.env` (not committed).
+
