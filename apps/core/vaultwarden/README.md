@@ -9,4 +9,9 @@ Personal password storage and management.
 In use / Planned.
 
 ## Notes
-Docker Compose setup will be added.
+Docker Compose setup will be added
+
+## Deployment
+Deployed using Docker Compose.
+Environment variables are defined in `.env`.
+
