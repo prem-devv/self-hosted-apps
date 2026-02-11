@@ -1,0 +1,15 @@
+{
+    email admin@example.com
+}
+
+affine.example.com {
+    reverse_proxy affine:3010
+}
+
+vault.example.com {
+    reverse_proxy vaultwarden:80
+}
+
+chat.example.com {
+    reverse_proxy mattermost:8065
+}
