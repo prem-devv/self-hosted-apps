@@ -1,9 +1,16 @@
 # Mattermost
 
-Self-hosted team messaging platform.
+Self-hosted team messaging and collaboration platform.
+
+## Purpose
+Internal team communication.
 
 ## Status
-Running / Planned
+Planned / In use.
 
 ## Notes
-Docker setup to be added.
+Docker Compose setup will be added.
+
+## Deployment
+Deployed using Docker Compose.
+Environment variables are defined in `.env`.
